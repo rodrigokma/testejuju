@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Results component tests matches the snapshot 1`] = `
+<div>
+  <div
+    className="results"
+  >
+    <p
+      className="brand-name"
+      data-testid="brand-info"
+    >
+      Brand: 
+      GM - Chevrolet
+    </p>
+    <p
+      className="model-name"
+      data-testid="model-info"
+    >
+      Model: 
+      MALIBU LTZ 2.4 16V 171cv 4p
+    </p>
+    <p
+      className="fuel-name"
+      data-testid="fuel-info"
+    >
+      Fuel:
+       
+      Gasoline
+    </p>
+    <p
+      className="price-value"
+      data-testid="price-info"
+    >
+      Price: 
+      R$ 64.694,00
+    </p>
+  </div>
+</div>
+`;

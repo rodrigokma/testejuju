@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Brand options component tests matches the snapshot 1`] = `
+<div
+  className="brand-options"
+>
+  <select
+    onChange={[MockFunction]}
+    value=""
+  >
+    <option
+      data-testid="select-brand"
+      value=""
+    >
+      Select a brand
+    </option>
+    <option
+      data-testid="brand-option"
+      value="93"
+    >
+      chevrolet
+    </option>
+    <option
+      data-testid="brand-option"
+      value="92"
+    >
+      nissan
+    </option>
+  </select>
+</div>
+`;

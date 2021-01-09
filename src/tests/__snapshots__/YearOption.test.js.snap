@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Year options component tests matches the snapshot 1`] = `
+<div
+  className="year-option"
+>
+  <select
+    onChange={[MockFunction]}
+  >
+    <option
+      data-testid="select-year"
+      value=""
+    >
+      Choose a year
+    </option>
+    <option
+      value="2013-1"
+    >
+      2013 gasolina
+    </option>
+    <option
+      value="2012-1"
+    >
+      2012 gasolina
+    </option>
+    <option
+      value="2011-1"
+    >
+      2011 gasolina
+    </option>
+  </select>
+</div>
+`;
